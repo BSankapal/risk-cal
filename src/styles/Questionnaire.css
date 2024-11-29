@@ -1,0 +1,120 @@
+/* src/styles/Questionnaire.css */
+
+/* General Layout */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #f4f7fb;
+  }
+  
+  h2, h3, h4, h5 {
+    margin: 0;
+    padding: 10px 0;
+    color: #333;
+  }
+  
+  /* Panel Styles for Topic and Sections */
+  .panel {
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin: 20px 0;
+    padding: 20px;
+    width: 80%;
+    max-width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .panel-header {
+    font-size: 1.5rem;
+    font-weight: bold;
+    border-bottom: 2px solid #eee;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .panel-body {
+    padding: 20px 0;
+  }
+  
+  .panel-section {
+    margin-bottom: 20px;
+  }
+  
+  /* Sub Panel Styles for Questions */
+  .question-panel {
+    background-color: #f9f9f9;
+    padding: 15px;
+    margin-bottom: 15px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .question-panel p {
+    margin: 0;
+    padding: 5px 0;
+    font-size: 1.1rem;
+    color: #333;
+  }
+  
+  .question-panel .buttons {
+    margin-top: 10px;
+  }
+  
+  .question-panel button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 8px 16px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 1rem;
+    transition: background-color 0.3s ease;
+    margin-right: 10px;
+  }
+  
+  .question-panel button:hover {
+    background-color: #0056b3;
+  }
+  
+  .question-panel button:disabled {
+    background-color: #ddd;
+    cursor: not-allowed;
+  }
+  
+  /* Navigation Button */
+  .next-button {
+    background-color: #28a745;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 4px;
+    font-size: 1.1rem;
+    cursor: pointer;
+    border: none;
+    transition: background-color 0.3s ease;
+    margin-top: 30px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .next-button:hover {
+    background-color: #218838;
+  }
+  
+  .next-button:disabled {
+    background-color: #ddd;
+    cursor: not-allowed;
+  }
+  
+  /* Loading State */
+  .loading {
+    font-size: 1.5rem;
+    color: #555;
+    text-align: center;
+    margin-top: 50px;
+  }
+  

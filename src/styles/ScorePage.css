@@ -1,0 +1,96 @@
+/* src/styles/ScorePage.css */
+
+/* General Layout */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #f4f7fb;
+  }
+  
+  .score-page {
+    width: 80%;
+    max-width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+  }
+  
+  h2 {
+    font-size: 2rem;
+    font-weight: bold;
+    color: #333;
+    border-bottom: 2px solid #eee;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+  }
+  
+  h3 {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #333;
+    margin-top: 20px;
+  }
+  
+  /* Panel Styles for Good and Improvement Points */
+  .panel {
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin-bottom: 20px;
+  }
+  
+  .panel-header{
+    font-size: 1.3rem;
+    font-weight: bold;
+    border-bottom: 2px solid #eee;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+  }
+
+  .panel-header h3 {
+    color: rgb(70, 70, 70);
+  }
+  
+  .panel-body {
+    padding: 10px 0;
+  }
+  
+  .panel-body ul {
+    padding-left: 20px;
+    list-style-type: disc;
+    color: #333;
+  }
+  
+  .panel-body ul li {
+    margin-bottom: 8px;
+  }
+  
+  .panel-body p {
+    color: #888;
+  }
+  
+  /* No Items Message */
+  .no-items {
+    font-style: italic;
+    color: #999;
+    padding: 10px 0;
+  }
+  
+  /* Score Section */
+  .score-summary {
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    padding: 15px;
+    text-align: center;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .score-summary p {
+    font-size: 1.2rem;
+    color: #333;
+    margin: 10px 0;
+  }
+  
