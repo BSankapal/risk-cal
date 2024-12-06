@@ -1,0 +1,1056 @@
+5. Security Policy and Management Commitment
+5.1 Audit
+5.1.1 Compliance Audits
+Section 1: Audit Frequency and Scope
+Question 1.1
+Name: Are compliance audits conducted regularly?
+Good Point (if Yes): Regular audits ensure adherence to policies and regulations.
+Scope for Improvement (if No): Establish a schedule for periodic compliance audits.
+Mandatory: True
+Tags: ["crucial sector of the company", "high IT infrastructure investment", "high digital footprint"]
+Question 1.2
+Name: Do audits cover all relevant regulatory requirements?
+Good Point (if Yes): Comprehensive audits reduce the risk of non-compliance.
+Scope for Improvement (if No): Expand audit scope to include all regulatory needs.
+Mandatory: True
+Tags: ["crucial sector of the company", "nature of data handled"]
+Question 1.3
+Name: Are findings from audits documented and reviewed?
+Good Point (if Yes): Documentation helps track compliance progress and areas for improvement.
+Scope for Improvement (if No): Create a formal process for recording and reviewing findings.
+Mandatory: True
+Tags: ["high IT infrastructure investment", "nature of data handled"]
+
+Section 2: Management and Corrective Actions
+Question 2.1
+Name: Are audit results reported to senior management?
+Good Point (if Yes): Management involvement supports proactive compliance measures.
+Scope for Improvement (if No): Establish a reporting process for audit results.
+Mandatory: True
+Tags: ["crucial sector of the company", "high revenue generate"]
+Question 2.2
+Name: Is corrective action taken promptly for audit findings?
+Good Point (if Yes): Timely responses mitigate risks identified in audits.
+Scope for Improvement (if No): Develop procedures to address findings quickly.
+Mandatory: True
+Tags: ["high IT infrastructure investment", "nature of data handled"]
+Question 2.3
+Name: Are compliance audit processes reviewed and updated periodically?
+Good Point (if Yes): Updates keep audit practices aligned with evolving regulations.
+Scope for Improvement (if No): Schedule regular reviews to enhance audit processes.
+Mandatory: True
+Tags: ["high digital footprint", "nature of data handled"]
+
+Section 3: Third-Party and Employee Involvement
+Question 3.1
+Name: Do audits include third-party vendors and partners?
+Good Point (if Yes): Comprehensive audits ensure third-party compliance.
+Scope for Improvement (if No): Extend audits to cover third-party relationships.
+Mandatory: True
+Tags: ["high IT infrastructure investment", "high digital footprint"]
+Question 3.2
+Name: Are employees informed about the importance of compliance audits?
+Good Point (if Yes): Employee awareness promotes a culture of accountability.
+Scope for Improvement (if No): Incorporate audit awareness into training programs.
+Mandatory: True
+Tags: ["large number of employees", "nature of data handled"]
+
+Section 4: Audit Security and External Reviews
+Question 4.1
+Name: Are audit trails securely stored and protected?
+Good Point (if Yes): Secure storage prevents unauthorized access to sensitive records.
+Scope for Improvement (if No): Implement measures for secure storage of audit documentation.
+Mandatory: True
+Tags: ["high IT infrastructure investment", "nature of data handled"]
+Question 4.2
+Name: Are external auditors involved in compliance reviews?
+Good Point (if Yes): External assessments provide an unbiased perspective.
+Scope for Improvement (if No): Consider engaging external auditors for independent reviews.
+Mandatory: True
+Tags: ["high revenue generate", "crucial sector of the company"]
+
+5.1.2 Control Audits
+Section 1: Frequency and Leadership Involvement
+Question 1.1
+Name: Are regular internal control audits conducted?
+Good Point (if Yes): Regular audits ensure consistent evaluation of controls.
+Scope for Improvement (if No): Schedule periodic audits to monitor internal controls effectively.
+Mandatory: True
+Tags: ["crucial sector of the company", "high IT infrastructure investment"]
+Question 1.2
+Name: Are control audit results reviewed by leadership?
+Good Point (if Yes): Leadership review reinforces accountability and alignment.
+Scope for Improvement (if No): Engage leadership in reviewing audit outcomes for strategic improvements.
+Mandatory: True
+Tags: ["high revenue generate", "crucial sector of the company"]
+Question 1.3
+Name: Do control audits verify the effectiveness of security measures?
+Good Point (if Yes): Effective verification ensures robust security practices.
+Scope for Improvement (if No): Focus audits on evaluating the efficacy of current security controls.
+Mandatory: True
+Tags: ["high IT infrastructure investment", "nature of data handled"]
+
+Section 2: Gap Identification and Prioritization
+Question 2.1
+Name: Are any gaps found in control audits addressed immediately?
+Good Point (if Yes): Prompt action on gaps minimizes vulnerabilities.
+Scope for Improvement (if No): Develop a remediation plan to tackle gaps efficiently.
+Mandatory: True
+Tags: ["high IT infrastructure investment", "high digital footprint"]
+Question 2.2
+Name: Are critical systems and processes prioritized in control audits?
+Good Point (if Yes): Prioritization secures the most impactful systems.
+Scope for Improvement (if No): Identify and focus audits on high-priority systems and processes.
+Mandatory: True
+Tags: ["crucial sector of the company", "nature of data handled"]
+Question 2.3
+Name: Are changes in the control environment reflected in audit focus?
+Good Point (if Yes): Adaptive audits remain relevant to evolving needs.
+Scope for Improvement (if No): Adjust audits to reflect changes in the control environment.
+Mandatory: True
+Tags: ["high IT infrastructure investment", "high digital footprint"]
+
+Section 3: Team Involvement and Response Readiness
+Question 3.1
+Name: Do control audits involve cross-functional teams?
+Good Point (if Yes): Diverse insights strengthen the audit process.
+Scope for Improvement (if No): Include cross-functional teams to enrich the audit perspective.
+Mandatory: True
+Tags: ["large number of employees", "high IT infrastructure investment"]
+Question 3.2
+Name: Are control audits used to improve incident response?
+Good Point (if Yes): Integrating audits with response enhances preparedness.
+Scope for Improvement (if No): Align audit processes with incident response readiness.
+Mandatory: True
+Tags: ["high digital footprint", "nature of data handled"]
+
+Section 4: Tracking and Comprehensive Evaluation
+Question 4.1
+Name: Is there a mechanism to track follow-ups from control audits?
+Good Point (if Yes): Tracking ensures accountability for corrective actions.
+Scope for Improvement (if No): Establish a system to monitor follow-ups and track implementation.
+Mandatory: True
+Tags: ["high IT infrastructure investment", "crucial sector of the company"]
+Question 4.2
+Name: Do control audits evaluate both preventive and detective controls?
+Good Point (if Yes): Comprehensive evaluations provide a holistic view of controls.
+Scope for Improvement (if No): Include assessments of both preventive and detective measures in the audit scope.
+Mandatory: True
+Tags: ["high IT infrastructure investment", "high digital footprint"]
+
+5.2 Strategy Management
+5.2.1 Cybersecurity Strategy
+Section 1: Documentation and Alignment
+Question 1.1
+Name: Is there a documented cybersecurity strategy?
+Good Point (if Yes): A documented strategy ensures clarity and direction.
+Scope for Improvement (if No): Develop a formal cybersecurity strategy to guide actions.
+Mandatory: True
+Tags: ["high IT infrastructure investment", "crucial sector of the company"]
+Question 1.2
+Name: Does the strategy align with overall business goals?
+Good Point (if Yes): Alignment ensures cybersecurity supports business objectives.
+Scope for Improvement (if No): Integrate cybersecurity into the organization’s business planning.
+Mandatory: True
+Tags: ["crucial sector of the company", "high revenue generate"]
+
+Section 2: Stakeholder Involvement and Communication
+Question 2.1
+Name: Are key stakeholders involved in strategy formulation?
+Good Point (if Yes): Stakeholder involvement enhances relevance and buy-in.
+Scope for Improvement (if No): Engage leadership and departmental heads in cybersecurity planning.
+Mandatory: True
+Tags: ["large number of employees", "crucial sector of the company"]
+Question 2.2
+Name: Is the cybersecurity strategy regularly reviewed and updated?
+Good Point (if Yes): Regular reviews ensure the strategy stays relevant.
+Scope for Improvement (if No): Establish intervals for reviewing and updating the cybersecurity strategy.
+Mandatory: True
+Tags: ["high IT infrastructure investment", "high digital footprint"]
+Question 2.3
+Name: Are employees aware of the cybersecurity strategy?
+Good Point (if Yes): Awareness fosters an organization-wide culture of security.
+Scope for Improvement (if No): Communicate the cybersecurity strategy across all levels of the organization.
+Mandatory: True
+Tags: ["large number of employees", "nature of data handled"]
+
+Section 3: Risk Consideration and Threat Preparedness
+Question 3.1
+Name: Are third-party risks considered in the cybersecurity strategy?
+Good Point (if Yes): Considering third-party risks reduces external vulnerabilities.
+Scope for Improvement (if No): Incorporate third-party risk assessments into the strategy.
+Mandatory: True
+Tags: ["crucial sector of the company", "high digital footprint"]
+Question 3.2
+Name: Does the strategy account for emerging cybersecurity threats?
+Good Point (if Yes): Threat intelligence keeps the strategy proactive.
+Scope for Improvement (if No): Leverage threat intelligence to address new and evolving threats.
+Mandatory: True
+Tags: ["high IT infrastructure investment", "nature of data handled"]
+
+Section 4: Objectives and Resource Allocation
+Question 4.1
+Name: Are specific objectives outlined in the cybersecurity strategy?
+Good Point (if Yes): Clear objectives enable measurable progress.
+Scope for Improvement (if No): Define specific, measurable goals within the cybersecurity strategy.
+Mandatory: True
+Tags: ["crucial sector of the company", "high revenue generate"]
+Question 4.2
+Name: Is there a budget allocated specifically for cybersecurity?
+Good Point (if Yes): Dedicated funding supports effective implementation.
+Scope for Improvement (if No): Secure a budget to achieve strategic goals.
+Mandatory: True
+Tags: ["high revenue generate", "high IT infrastructure investment"]
+Question 4.3
+Name: Are performance metrics defined for the cybersecurity strategy?
+Good Point (if Yes): Metrics provide insights into effectiveness and areas for improvement.
+Scope for Improvement (if No): Establish key performance indicators (KPIs) to measure success.
+Mandatory: True
+Tags: ["high IT infrastructure investment", "high digital footprint"]
+
+5.2.2 Periodic Updates
+Section 1: Scheduled Reviews and Compliance
+Question 1.1
+Name: Are cybersecurity strategies reviewed on a scheduled basis?
+Good Point (if Yes): Regular reviews ensure the strategy remains effective.
+Scope for Improvement (if No): Define a regular cycle for reviewing and updating cybersecurity strategies.
+Mandatory: True
+Tags: ["crucial sector of the company", "high IT infrastructure investment"]
+Question 1.2
+Name: Do updates reflect recent regulatory changes?
+Good Point (if Yes): Addressing regulatory updates ensures compliance.
+Scope for Improvement (if No): Align updates with evolving compliance requirements.
+Mandatory: True
+Tags: ["crucial sector of the company", "nature of data handled"]
+
+Section 2: Stakeholder Communication and Threat Consideration
+Question 2.1
+Name: Are updates shared with all relevant stakeholders?
+Good Point (if Yes): Stakeholder involvement ensures awareness and alignment.
+Scope for Improvement (if No): Communicate updates effectively across the organization.
+Mandatory: True
+Tags: ["large number of employees", "crucial sector of the company"]
+Question 2.2
+Name: Are new threats considered in strategy updates?
+Good Point (if Yes): Incorporating threats keeps the strategy proactive.
+Scope for Improvement (if No): Include threat intelligence to address emerging risks.
+Mandatory: True
+Tags: ["high IT infrastructure investment", "high digital footprint"]
+
+Section 3: Leadership and Employee Training
+Question 3.1
+Name: Does management actively participate in strategy reviews?
+Good Point (if Yes): Leadership participation ensures strategic alignment with organizational goals.
+Scope for Improvement (if No): Involve senior management in the strategy update process.
+Mandatory: True
+Tags: ["crucial sector of the company", "high revenue generate"]
+Question 3.2
+Name: Are employees trained on significant strategy changes?
+Good Point (if Yes): Training keeps employees aligned with updated practices.
+Scope for Improvement (if No): Provide comprehensive training on updated cybersecurity practices.
+Mandatory: True
+Tags: ["large number of employees", "nature of data handled"]
+
+Section 4: Incorporating Insights and Documentation
+Question 4.1
+Name: Is feedback from audits incorporated into updates?
+Good Point (if Yes): Using audit insights refines the strategy.
+Scope for Improvement (if No): Leverage findings from audits for better updates.
+Mandatory: True
+Tags: ["crucial sector of the company", "high IT infrastructure investment"]
+Question 4.2
+Name: Are updates to the strategy documented and stored securely?
+Good Point (if Yes): Secure documentation ensures accountability and reference.
+Scope for Improvement (if No): Maintain comprehensive and secure records of strategy revisions.
+Mandatory: True
+Tags: ["high IT infrastructure investment", "high digital footprint"]
+
+Section 5: Technology and Benchmarking
+Question 5.1
+Name: Do updates address changes in technology or infrastructure?
+Good Point (if Yes): Technology-driven updates enhance security measures.
+Scope for Improvement (if No): Consider advancements in technology and infrastructure during reviews.
+Mandatory: True
+Tags: ["high IT infrastructure investment", "high revenue generate"]
+Question 5.2
+Name: Is the cybersecurity strategy benchmarked against industry standards?
+Good Point (if Yes): Benchmarking ensures the strategy meets industry best practices.
+Scope for Improvement (if No): Compare the strategy with established industry frameworks for improvement.
+Mandatory: True
+Tags: ["crucial sector of the company", "high digital footprint"]
+
+5.3 Business Processes
+5.3.1 Cybersecurity in Business Processes
+Section 1: Integration into Business Processes and Risk Assessment
+Question 1.1
+Name: Are cybersecurity requirements integrated into business processes?
+Good Point (if Yes): Integration of cybersecurity ensures protection across all workflows.
+Scope for Improvement (if No): Embed security requirements into key business processes.
+Mandatory: True
+Tags: ["crucial sector of the company", "high revenue generate"]
+Question 1.2
+Name: Is there a process to identify cybersecurity risks in business activities?
+Good Point (if Yes): Proactive risk identification helps in early mitigation.
+Scope for Improvement (if No): Assess and identify risk exposure in business activities.
+Mandatory: True
+Tags: ["nature of data handled", "high digital footprint"]
+
+Section 2: Cross-Functional Involvement and Access Control
+Question 2.1
+Name: Do cross-functional teams evaluate cybersecurity in processes?
+Good Point (if Yes): Involving multiple departments ensures a holistic approach to security.
+Scope for Improvement (if No): Involve departments like IT, legal, and compliance in evaluating cybersecurity in processes.
+Mandatory: True
+Tags: ["large number of employees", "high IT infrastructure investment"]
+Question 2.2
+Name: Are critical business processes mapped to their security requirements?
+Good Point (if Yes): Mapping ensures that security is tailored to business needs.
+Scope for Improvement (if No): Document and map security requirements for critical business processes.
+Mandatory: True
+Tags: ["crucial sector of the company", "high IT infrastructure investment"]
+
+Section 3: Training, Vendor Security, and Continuity Planning
+Question 3.1
+Name: Is access to business process data strictly controlled?
+Good Point (if Yes): Strong access control reduces the risk of unauthorized access to sensitive data.
+Scope for Improvement (if No): Implement stricter access controls for sensitive business process data.
+Mandatory: True
+Tags: ["nature of data handled", "high digital footprint"]
+Question 3.2
+Name: Are employees trained on secure business process execution?
+Good Point (if Yes): Security training ensures employees understand how to safely handle business processes.
+Scope for Improvement (if No): Incorporate security practices into business training programs.
+Mandatory: True
+Tags: ["large number of employees", "high revenue generate"]
+Question 3.3
+Name: Is cybersecurity factored into vendor or partner processes?
+Good Point (if Yes): Third-party security management is essential for risk mitigation.
+Scope for Improvement (if No): Establish cybersecurity requirements for vendors and partners.
+Mandatory: True
+Tags: ["crucial sector of the company", "high digital footprint"]
+
+Section 4: Business Continuity and Process Monitoring
+Question 4.1
+Name: Are business continuity plans reviewed for cybersecurity resilience?
+Good Point (if Yes): Reviewing plans ensures that business continuity also includes cybersecurity resilience.
+Scope for Improvement (if No): Integrate cybersecurity into business continuity planning.
+Mandatory: True
+Tags: ["high IT infrastructure investment", "crucial sector of the company"]
+Question 4.2
+Name: Are process changes assessed for potential security impacts?
+Good Point (if Yes): Regular reviews ensure that changes in processes do not create new vulnerabilities.
+Scope for Improvement (if No): Conduct security reviews for any process adjustments or changes.
+Mandatory: True
+Tags: ["nature of data handled", "high revenue generate"]
+Question 4.3
+Name: Is there regular monitoring for cybersecurity in business processes?
+Good Point (if Yes): Continuous monitoring helps identify and mitigate threats in real-time.
+Scope for Improvement (if No): Set up ongoing checks for cybersecurity in business processes.
+Mandatory: True
+Tags: ["large number of employees", "high digital footprint"]
+
+5.3.2 Cross-Departmental Collaboration
+Section 1: Cybersecurity Collaboration and Risk Assessment
+Question 1.1
+Name: Do all departments contribute to cybersecurity efforts?
+Good Point (if Yes): Collaboration ensures a unified approach to cybersecurity.
+Scope for Improvement (if No): Establish a collaborative cybersecurity framework that involves all departments.
+Mandatory: True
+Tags: ["crucial sector of the company", "large number of employees"]
+Question 1.2
+Name: Are cross-departmental cybersecurity risks identified and assessed?
+Good Point (if Yes): Risk assessments identify vulnerabilities in inter-departmental operations.
+Scope for Improvement (if No): Implement processes to assess cybersecurity risks across all departments.
+Mandatory: True
+Tags: ["high IT infrastructure investment", "nature of data handled"]
+
+Section 2: Meetings, Policies, and Responsibilities
+Question 2.1
+Name: Is there a formal process for cross-functional cybersecurity meetings?
+Good Point (if Yes): Regular meetings foster inter-departmental communication on security issues.
+Scope for Improvement (if No): Schedule regular inter-departmental cybersecurity meetings.
+Mandatory: True
+Tags: ["crucial sector of the company", "high digital footprint"]
+Question 2.2
+Name: Do all departments have a clear understanding of cybersecurity policies?
+Good Point (if Yes): Policy clarity ensures consistent application across departments.
+Scope for Improvement (if No): Provide training to ensure all teams understand cybersecurity policies.
+Mandatory: True
+Tags: ["large number of employees", "high revenue generate"]
+Question 2.3
+Name: Are cybersecurity responsibilities defined for each department?
+Good Point (if Yes): Defined roles improve accountability in cybersecurity tasks.
+Scope for Improvement (if No): Assign clear cybersecurity roles to all departments.
+Mandatory: True
+Tags: ["crucial sector of the company", "high IT infrastructure investment"]
+
+Section 3: Incident Reporting and Response
+Question 3.1
+Name: Are communication channels open for reporting security incidents across departments?
+Good Point (if Yes): Open communication ensures timely incident reporting and resolution.
+Scope for Improvement (if No): Create streamlined channels for reporting security incidents.
+Mandatory: True
+Tags: ["nature of data handled", "high digital footprint"]
+Question 3.2
+Name: Does each department participate in incident response planning?
+Good Point (if Yes): Inclusive planning strengthens organizational resilience.
+Scope for Improvement (if No): Include all departments in incident response planning and drills.
+Mandatory: True
+Tags: ["crucial sector of the company", "large number of employees"]
+
+Section 4: Data Sharing and Resource Allocation
+Question 4.1
+Name: Are cross-functional projects reviewed for security impacts?
+Good Point (if Yes): Security reviews mitigate risks in collaborative efforts.
+Scope for Improvement (if No): Conduct security assessments for inter-departmental projects.
+Mandatory: True
+Tags: ["high IT infrastructure investment", "high digital footprint"]
+Question 4.2
+Name: Is there a process to handle inter-departmental data sharing securely?
+Good Point (if Yes): Secure sharing ensures data integrity across teams.
+Scope for Improvement (if No): Define secure protocols for sharing data between departments.
+Mandatory: True
+Tags: ["nature of data handled", "high revenue generate"]
+Question 4.3
+Name: Are resources shared across departments to address cybersecurity needs?
+Good Point (if Yes): Shared resources improve efficiency in tackling security challenges.
+Scope for Improvement (if No): Allocate shared resources for addressing cybersecurity initiatives.
+Mandatory: True
+Tags: ["large number of employees", "high IT infrastructure investment"]
+
+5.4 Policy and Procedures
+5.4.1 IT Security Policies and Procedures
+Section 1: Policy Development and Coverage
+Question 1.1
+Name: Are comprehensive IT security policies in place?
+Good Point (if Yes): Robust policies provide a foundation for organizational security.
+Scope for Improvement (if No): Develop formal IT security policies covering organizational needs.
+Mandatory: True
+Tags: ["crucial sector of the company", "high IT infrastructure investment"]
+Question 1.2
+Name: Do policies cover all necessary security domains?
+Good Point (if Yes): Comprehensive coverage reduces vulnerabilities.
+Scope for Improvement (if No): Ensure policies address all critical security areas (e.g., access controls, data protection).
+Mandatory: True
+Tags: ["nature of data handled", "high digital footprint"]
+Question 1.3
+Name: Are policies accessible to all employees?
+Good Point (if Yes): Accessibility fosters better adherence.
+Scope for Improvement (if No): Make policies available on shared platforms or intranet.
+Mandatory: True
+Tags: ["large number of employees", "high revenue generate"]
+
+Section 2: Employee Compliance and Training
+Question 2.1
+Name: Are there procedures for employee compliance with policies?
+Good Point (if Yes): Compliance ensures policy effectiveness.
+Scope for Improvement (if No): Set up mechanisms, such as periodic checks or compliance training, to ensure adherence.
+Mandatory: True
+Tags: ["large number of employees", "high IT infrastructure investment"]
+Question 2.2
+Name: Do policies include guidelines for handling sensitive data?
+Good Point (if Yes): Clear guidelines protect sensitive information.
+Scope for Improvement (if No): Establish and disseminate data-handling procedures within the organization.
+Mandatory: True
+Tags: ["nature of data handled", "high digital footprint"]
+Question 2.3
+Name: Are employees required to acknowledge the policies?
+Good Point (if Yes): Acknowledgment ensures employees are informed and accountable.
+Scope for Improvement (if No): Implement an acknowledgment process for IT security policies.
+Mandatory: True
+Tags: ["large number of employees", "crucial sector of the company"]
+
+Section 3: Policy Maintenance and Updates
+Question 3.1
+Name: Are security policies regularly reviewed and updated?
+Good Point (if Yes): Regular updates keep policies relevant to evolving threats.
+Scope for Improvement (if No): Schedule periodic reviews and incorporate feedback or new regulations.
+Mandatory: True
+Tags: ["high IT infrastructure investment", "high digital footprint"]
+Question 3.2
+Name: Is there a process for handling non-compliance?
+Good Point (if Yes): Addressing violations reinforces policy importance.
+Scope for Improvement (if No): Define repercussions for policy violations and ensure transparency.
+Mandatory: True
+Tags: ["large number of employees", "high revenue generate"]
+
+Section 4: Specific Use Cases and Extensions
+Question 4.1
+Name: Do policies account for remote work security needs?
+Good Point (if Yes): Tailored policies support secure remote operations.
+Scope for Improvement (if No): Update IT security policies to address remote work scenarios, such as VPN usage and endpoint protection.
+Mandatory: True
+Tags: ["crucial sector of the company", "high IT infrastructure investment"]
+Question 4.2
+Name: Are third-party vendors required to comply with policies?
+Good Point (if Yes): Extending policies protects against external threats.
+Scope for Improvement (if No): Require vendors to comply with organizational IT security policies.
+Mandatory: True
+Tags: ["nature of data handled", "high digital footprint"]
+
+5.4.2 Regular Updates and Communication
+Section 1: Policy Review and Scheduling
+Question 1.1
+Name: Are policies reviewed on a defined schedule?
+Good Point (if Yes): Regular reviews ensure policies remain relevant and effective.
+Scope for Improvement (if No): Establish a schedule for periodic policy updates.
+Mandatory: True
+Tags: ["crucial sector of the company", "high IT infrastructure investment"]
+Question 1.2
+Name: Are policy changes communicated across the organization?
+Good Point (if Yes): Transparent communication fosters better adoption.
+Scope for Improvement (if No): Set up a dedicated communication channel to inform employees of updates.
+Mandatory: True
+Tags: ["large number of employees", "nature of data handled"]
+
+Section 2: Employee Training and Feedback
+Question 2.1
+Name: Are employees trained on major policy updates?
+Good Point (if Yes): Training ensures employees are equipped to follow updated guidelines.
+Scope for Improvement (if No): Incorporate significant updates into regular training sessions.
+Mandatory: True
+Tags: ["large number of employees", "high IT infrastructure investment"]
+Question 2.2
+Name: Is employee feedback considered in policy updates?
+Good Point (if Yes): Feedback improves policy relevance and practicality.
+Scope for Improvement (if No): Include feedback mechanisms for employees to contribute insights.
+Mandatory: True
+Tags: ["crucial sector of the company", "high digital footprint"]
+
+Section 3: Documentation and Threat Integration
+Question 3.1
+Name: Are changes tracked and documented?
+Good Point (if Yes): Documentation creates a reliable reference for policy evolution.
+Scope for Improvement (if No): Maintain a log detailing all policy revisions and updates.
+Mandatory: True
+Tags: ["high IT infrastructure investment", "nature of data handled"]
+Question 3.2
+Name: Do updates reflect new threats and risks?
+Good Point (if Yes): Incorporating threat intelligence enhances policy effectiveness.
+Scope for Improvement (if No): Use threat analysis to guide updates, ensuring alignment with emerging risks.
+Mandatory: True
+Tags: ["crucial sector of the company", "high digital footprint"]
+
+Section 4: Leadership and Emergency Updates
+Question 4.1
+Name: Are policy changes reviewed by leadership?
+Good Point (if Yes): Leadership involvement ensures strategic alignment.
+Scope for Improvement (if No): Engage senior management in reviewing and approving updates.
+Mandatory: True
+Tags: ["high revenue generate", "crucial sector of the company"]
+Question 4.2
+Name: Are there emergency updates for critical changes?
+Good Point (if Yes): Emergency updates enable timely responses to urgent risks.
+Scope for Improvement (if No): Establish a process for urgent updates to critical policies.
+Mandatory: True
+Tags: ["high IT infrastructure investment", "nature of data handled"]
+
+Section 5: Notifications and Audit Trails
+Question 5.1
+Name: Is there an audit trail for policy changes?
+Good Point (if Yes): Audit trails ensure accountability and transparency.
+Scope for Improvement (if No): Create a system to log all modifications for reference and compliance.
+Mandatory: True
+Tags: ["high digital footprint", "high IT infrastructure investment"]
+Question 5.2
+Name: Are stakeholders notified of updates affecting their roles?
+Good Point (if Yes): Targeted notifications ensure that changes reach the right people.
+Scope for Improvement (if No): Inform stakeholders about role-specific policy updates through clear communication channels.
+Mandatory: True
+Tags: ["large number of employees", "crucial sector of the company"]
+
+5.5 Performance Management
+5.5.1 Measuring Performance Using KPIs
+Section 1: Establishing and Reviewing KPIs
+Question 1.1
+Name: Are KPIs established to measure cybersecurity performance?
+Good Point (if Yes): Defined KPIs provide measurable insights into cybersecurity effectiveness.
+Scope for Improvement (if No): Define specific performance indicators tailored to security goals.
+Mandatory: True
+Tags: ["crucial sector of the company", "high IT infrastructure investment"]
+Question 1.2
+Name: Are KPIs regularly reviewed and assessed?
+Good Point (if Yes): Regular reviews ensure KPIs remain relevant and actionable.
+Scope for Improvement (if No): Set up periodic reviews of KPIs to evaluate their continued effectiveness.
+Mandatory: True
+Tags: ["high revenue generate", "high digital footprint"]
+
+Section 2: Alignment and Communication
+Question 2.1
+Name: Do KPIs align with organizational security goals?
+Good Point (if Yes): Aligned KPIs ensure performance measurement supports strategic objectives.
+Scope for Improvement (if No): Adjust KPIs to reflect organizational security goals and priorities.
+Mandatory: True
+Tags: ["crucial sector of the company", "nature of data handled"]
+Question 2.2
+Name: Are KPI results shared with relevant stakeholders?
+Good Point (if Yes): Sharing results promotes transparency and collaborative improvements.
+Scope for Improvement (if No): Include stakeholders in KPI discussions to drive collective actions.
+Mandatory: True
+Tags: ["large number of employees", "high IT infrastructure investment"]
+
+Section 3: Benchmarks and Threat Adaptation
+Question 3.1
+Name: Are there performance benchmarks for comparison?
+Good Point (if Yes): Benchmarks provide context to measure effectiveness.
+Scope for Improvement (if No): Set benchmarks to gauge performance against industry standards or internal targets.
+Mandatory: True
+Tags: ["high digital footprint", "crucial sector of the company"]
+Question 3.2
+Name: Are KPIs adjusted for emerging threats?
+Good Point (if Yes): Adapting KPIs helps address evolving security challenges.
+Scope for Improvement (if No): Revise KPIs to incorporate insights from the threat landscape.
+Mandatory: True
+Tags: ["high IT infrastructure investment", "nature of data handled"]
+
+Section 4: Comprehensiveness and Actionability
+Question 4.1
+Name: Do KPIs cover all critical areas of cybersecurity?
+Good Point (if Yes): Comprehensive KPIs ensure all risk domains are monitored.
+Scope for Improvement (if No): Expand KPIs to address any overlooked areas of cybersecurity.
+Mandatory: True
+Tags: ["nature of data handled", "high revenue generate"]
+Question 4.2
+Name: Are KPI results used to improve security measures?
+Good Point (if Yes): Applying KPI insights enhances security posture.
+Scope for Improvement (if No): Leverage findings from KPI analysis to strengthen security practices.
+Mandatory: True
+Tags: ["large number of employees", "high digital footprint"]
+
+Section 5: Target Setting and Investments
+Question 5.1
+Name: Is there a defined target for each KPI?
+Good Point (if Yes): Targets provide a clear goal for performance evaluation.
+Scope for Improvement (if No): Assign targets for all KPIs to track progress effectively.
+Mandatory: True
+Tags: ["crucial sector of the company", "high IT infrastructure investment"]
+Question 5.2
+Name: Are KPIs used to drive cybersecurity investments?
+Good Point (if Yes): Data-driven investments optimize resource allocation.
+Scope for Improvement (if No): Use KPI insights to inform budget planning and resource distribution.
+Mandatory: True
+Tags: ["high revenue generate", "nature of data handled"]
+
+5.5.2 Tracking Improvements
+Section 1: Establishing and Monitoring Tracking Mechanisms
+Question 1.1
+Name: Is there a tracking mechanism for security improvements?
+Good Point (if Yes): A tracking mechanism ensures accountability and visibility in progress.
+Scope for Improvement (if No): Create a system to monitor and evaluate progress in security enhancements.
+Mandatory: True
+Tags: ["high IT infrastructure investment", "high digital footprint"]
+Question 1.2
+Name: Are improvement goals based on audit and KPI findings?
+Good Point (if Yes): Audit and KPI alignment makes goals more actionable and data-driven.
+Scope for Improvement (if No): Align improvement objectives with audit insights and KPI performance.
+Mandatory: True
+Tags: ["high revenue generate", "crucial sector of the company"]
+
+Section 2: Leadership and Prioritization
+Question 2.1
+Name: Are progress updates reviewed by leadership?
+Good Point (if Yes): Leadership involvement ensures strategic alignment and oversight.
+Scope for Improvement (if No): Schedule progress reviews with senior management to maintain momentum.
+Mandatory: True
+Tags: ["large number of employees", "nature of data handled"]
+Question 2.2
+Name: Are identified improvements prioritized?
+Good Point (if Yes): Prioritization ensures the most critical issues are addressed first.
+Scope for Improvement (if No): Establish a priority system for tackling security improvements effectively.
+Mandatory: True
+Tags: ["crucial sector of the company", "high digital footprint"]
+
+Section 3: Review and Documentation
+Question 3.1
+Name: Is tracking data regularly reviewed?
+Good Point (if Yes): Regular reviews enable proactive adjustments and transparency.
+Scope for Improvement (if No): Set up frequent review sessions to ensure progress stays on track.
+Mandatory: True
+Tags: ["high IT infrastructure investment", "high revenue generate"]
+Question 3.2
+Name: Are corrective actions documented and tracked?
+Good Point (if Yes): Documentation ensures an accurate record of actions taken for accountability.
+Scope for Improvement (if No): Maintain a log of all corrective actions implemented.
+Mandatory: True
+Tags: ["nature of data handled", "high digital footprint"]
+
+Section 4: Timelines and Communication
+Question 4.1
+Name: Do tracked improvements include timelines?
+Good Point (if Yes): Timelines drive clarity and urgency in addressing improvements.
+Scope for Improvement (if No): Define specific timelines for completing each identified improvement.
+Mandatory: True
+Tags: ["large number of employees", "high IT infrastructure investment"]
+Question 4.2
+Name: Are employees informed about the improvements made?
+Good Point (if Yes): Transparency encourages a culture of shared responsibility and trust.
+Scope for Improvement (if No): Communicate improvements across all teams for awareness and involvement.
+Mandatory: True
+Tags: ["crucial sector of the company", "nature of data handled"]
+
+Section 5: Feedback and Contingency Plans
+Question 5.1
+Name: Is there a feedback loop for refining improvements?
+Good Point (if Yes): Feedback enhances the quality and relevance of implemented measures.
+Scope for Improvement (if No): Include a feedback mechanism to refine and optimize improvements.
+Mandatory: True
+Tags: ["high digital footprint", "high revenue generate"]
+Question 5.2
+Name: Are there contingency plans for unachieved improvements?
+Good Point (if Yes): Contingency plans prepare the organization for unexpected challenges.
+Scope for Improvement (if No): Prepare alternative measures to address unachieved security goals.
+Mandatory: True
+Tags: ["high IT infrastructure investment", "large number of employees"]
+
+5.6 Risk Management
+5.6.1 Identifying and Mitigating Risks
+Section 1: Establishing a Risk Assessment Framework
+Question 1.1
+Name: Is there a risk assessment framework in place?
+Good Point (if Yes): A structured framework ensures consistent and effective risk evaluation.
+Scope for Improvement (if No): Establish a comprehensive framework for assessing organizational risks.
+Mandatory: True
+Tags: ["crucial sector of the company", "high IT infrastructure investment"]
+Question 1.2
+Name: Are risk assessments conducted regularly?
+Good Point (if Yes): Regular assessments allow proactive identification and mitigation of risks.
+Scope for Improvement (if No): Schedule periodic risk evaluations to stay ahead of potential threats.
+Mandatory: True
+Tags: ["high digital footprint", "high revenue generate"]
+
+Section 2: Risk Prioritization and Mitigation
+Question 2.1
+Name: Are risks prioritized based on potential impact?
+Good Point (if Yes): Prioritization ensures focus on the most critical threats.
+Scope for Improvement (if No): Create a risk prioritization matrix to address high-impact risks first.
+Mandatory: True
+Tags: ["nature of data handled", "large number of employees"]
+Question 2.2
+Name: Are mitigation plans developed for each risk?
+Good Point (if Yes): Tailored mitigation plans enhance risk response effectiveness.
+Scope for Improvement (if No): Design specific plans for high-priority risks to ensure readiness.
+Mandatory: True
+Tags: ["high IT infrastructure investment", "high digital footprint"]
+
+Section 3: Cross-Functional Involvement
+Question 3.1
+Name: Are cross-functional teams involved in risk assessments?
+Good Point (if Yes): Cross-functional collaboration provides diverse perspectives for better analysis.
+Scope for Improvement (if No): Engage teams across departments to improve risk identification.
+Mandatory: True
+Tags: ["crucial sector of the company", "large number of employees"]
+Question 3.2
+Name: Is there a process to review identified risks periodically?
+Good Point (if Yes): Regular reviews ensure that risk profiles remain accurate and actionable.
+Scope for Improvement (if No): Set up a schedule for periodic risk profile reviews.
+Mandatory: True
+Tags: ["high revenue generate", "high digital footprint"]
+
+Section 4: Managing Residual Risks
+Question 4.1
+Name: Are residual risks clearly identified and managed?
+Good Point (if Yes): Managing residual risks minimizes vulnerabilities after mitigation.
+Scope for Improvement (if No): Focus on minimizing and documenting residual risks.
+Mandatory: True
+Tags: ["nature of data handled", "high IT infrastructure investment"]
+Question 4.2
+Name: Are risk mitigation strategies tested?
+Good Point (if Yes): Testing strategies ensure they are effective in real scenarios.
+Scope for Improvement (if No): Conduct drills and simulations to verify the effectiveness of mitigation strategies.
+Mandatory: True
+Tags: ["crucial sector of the company", "high digital footprint"]
+
+Section 5: Risk Documentation and Awareness
+Question 5.1
+Name: Is there a documented risk management plan?
+Good Point (if Yes): Documentation ensures clarity and consistency in managing risks.
+Scope for Improvement (if No): Outline all risk management protocols in a centralized document.
+Mandatory: True
+Tags: ["large number of employees", "high IT infrastructure investment"]
+Question 5.2
+Name: Are employees aware of identified risks in their roles?
+Good Point (if Yes): Awareness fosters accountability and better risk management at the individual level.
+Scope for Improvement (if No): Communicate role-specific risks to employees to enhance preparedness.
+Mandatory: True
+Tags: ["nature of data handled", "high revenue generate"]
+
+5.6.2 Continuous Risk Assessments
+Section 1: Adapting to New Threats
+Question 1.1
+Name: Are risk assessments updated based on new threats?
+Good Point (if Yes): Proactive updates improve preparedness against evolving risks.
+Scope for Improvement (if No): Monitor the threat landscape and incorporate changes into risk assessments.
+Mandatory: True
+Tags: ["crucial sector of the company", "high IT infrastructure investment"]
+Question 1.2
+Name: Is there a mechanism for real-time risk assessment?
+Good Point (if Yes): Real-time assessments allow immediate responses to emerging risks.
+Scope for Improvement (if No): Explore tools and frameworks for continuous risk evaluation.
+Mandatory: True
+Tags: ["high digital footprint", "high revenue generate"]
+
+Section 2: Communication and Vendor Risks
+Question 2.1
+Name: Are emerging risks communicated to all relevant teams?
+Good Point (if Yes): Timely communication ensures organization-wide awareness.
+Scope for Improvement (if No): Establish an alert system to inform teams about new risks.
+Mandatory: True
+Tags: ["large number of employees", "nature of data handled"]
+Question 2.2
+Name: Are vendors assessed regularly for potential risks?
+Good Point (if Yes): Regular vendor assessments mitigate third-party vulnerabilities.
+Scope for Improvement (if No): Include vendor risks as part of periodic risk assessments.
+Mandatory: True
+Tags: ["high IT infrastructure investment", "high digital footprint"]
+
+Section 3: Incident Data and Adaptive Responses
+Question 3.1
+Name: Are incident data used to update risk profiles?
+Good Point (if Yes): Using incident data refines risk assessments and prevents recurrence.
+Scope for Improvement (if No): Leverage data from past incidents to improve risk profiles.
+Mandatory: True
+Tags: ["crucial sector of the company", "nature of data handled"]
+Question 3.2
+Name: Is there an adaptive response plan for new risks?
+Good Point (if Yes): Flexible protocols ensure a swift response to unforeseen risks.
+Scope for Improvement (if No): Create protocols that adapt to the unique characteristics of new threats.
+Mandatory: True
+Tags: ["high digital footprint", "high revenue generate"]
+
+Section 4: Compliance and Strategic Alignment
+Question 4.1
+Name: Are risk assessments aligned with compliance requirements?
+Good Point (if Yes): Alignment ensures adherence to regulatory standards and reduces legal risks.
+Scope for Improvement (if No): Incorporate compliance guidelines into the risk assessment framework.
+Mandatory: True
+Tags: ["nature of data handled", "crucial sector of the company"]
+Question 4.2
+Name: Are risk assessments linked to strategic planning?
+Good Point (if Yes): Integrating risk insights strengthens strategic decisions.
+Scope for Improvement (if No): Use risk assessment findings to guide organizational strategies.
+Mandatory: True
+Tags: ["high IT infrastructure investment", "high revenue generate"]
+
+Section 5: Documentation and Automation
+Question 5.1
+Name: Are continuous assessments documented?
+Good Point (if Yes): Documentation ensures traceability and consistency in risk evaluation.
+Scope for Improvement (if No): Record all findings from continuous assessments for reference.
+Mandatory: True
+Tags: ["large number of employees", "high digital footprint"]
+Question 5.2
+Name: Are tools used to automate parts of the risk assessment?
+Good Point (if Yes): Automation improves efficiency and reduces manual errors.
+Scope for Improvement (if No): Evaluate and implement tools to automate routine risk assessment tasks.
+Mandatory: True
+Tags: ["high IT infrastructure investment", "crucial sector of the company"]
+
+5.7 Management Commitment
+5.7.1 Senior Management and Board Engagement
+Section 1: Engagement in Cybersecurity Discussions
+Question 1.1
+Name: Do senior management and board members regularly discuss cybersecurity risks?
+Good Point (if Yes): Regular discussions ensure awareness and proactive decision-making.
+Scope for Improvement (if No): Establish a reporting structure to consistently inform leadership about risks.
+Mandatory: True
+Tags: ["crucial sector of the company", "high digital footprint"]
+Question 1.2
+Name: Are cybersecurity goals and priorities aligned with overall organizational objectives?
+Good Point (if Yes): Alignment promotes a cohesive strategy and resource optimization.
+Scope for Improvement (if No): Encourage strategic discussions to align goals and priorities.
+Mandatory: True
+Tags: ["high revenue generate", "high IT infrastructure investment"]
+Question 1.3
+Name: Is cybersecurity a standing agenda item in board meetings?
+Good Point (if Yes): Regular updates reinforce cybersecurity's importance.
+Scope for Improvement (if No): Include cybersecurity updates as a recurring agenda topic.
+Mandatory: True
+Tags: ["large number of employees", "crucial sector of the company"]
+
+Section 2: Leadership Involvement in Awareness and Oversight
+Question 2.1
+Name: Do senior leaders participate in cybersecurity awareness and training programs?
+Good Point (if Yes): Leadership participation demonstrates commitment to cybersecurity culture.
+Scope for Improvement (if No): Introduce tailored training sessions for executives.
+Mandatory: True
+Tags: ["nature of data handled", "large number of employees"]
+Question 2.2
+Name: Is there a designated executive accountable for cybersecurity oversight?
+Good Point (if Yes): Accountability enhances focus and ensures leadership engagement.
+Scope for Improvement (if No): Assign cybersecurity oversight to a specific executive role.
+Mandatory: True
+Tags: ["crucial sector of the company", "high IT infrastructure investment"]
+Question 2.3
+Name: Are board members informed of the organization’s cybersecurity posture and strategy?
+Good Point (if Yes): Regular updates enhance strategic oversight and informed decision-making.
+Scope for Improvement (if No): Ensure board members receive periodic briefings.
+Mandatory: True
+Tags: ["high revenue generate", "high digital footprint"]
+
+Section 3: Regulatory Briefings and Incident Oversight
+Question 3.1
+Name: Have the board and executives received briefings on cybersecurity compliance and regulatory requirements?
+Good Point (if Yes): Compliance awareness reduces legal and financial risks.
+Scope for Improvement (if No): Schedule regular briefings to cover relevant regulations and requirements.
+Mandatory: True
+Tags: ["nature of data handled", "high IT infrastructure investment"]
+Question 3.2
+Name: Are executives involved in reviewing major cybersecurity incidents and response plans?
+Good Point (if Yes): Their involvement ensures accountability and resource allocation.
+Scope for Improvement (if No): Include executives in post-incident reviews to enhance accountability and planning.
+Mandatory: True
+Tags: ["crucial sector of the company", "high digital footprint"]
+
+Section 4: Budget and Cultural Endorsement
+Question 4.1
+Name: Does the board review and approve the cybersecurity budget to ensure it aligns with risk levels?
+Good Point (if Yes): Budget reviews ensure that funding matches organizational needs.
+Scope for Improvement (if No): Engage the board in budget discussions to secure necessary funding.
+Mandatory: True
+Tags: ["high revenue generate", "nature of data handled"]
+Question 4.2
+Name: Has senior leadership publicly endorsed a cybersecurity culture across the organization?
+Good Point (if Yes): Visible endorsement reinforces security as a core organizational value.
+Scope for Improvement (if No): Encourage public support from leadership to strengthen the cybersecurity culture.
+Mandatory: True
+Tags: ["large number of employees", "crucial sector of the company"]
+
+5.7.2 Resource Allocation
+Section 1: Financial Resource Allocation
+Question 1.1
+Name: Are sufficient financial resources dedicated to meet cybersecurity requirements and needs?
+Good Point (if Yes): Adequate funding ensures the organization can meet cybersecurity demands.
+Scope for Improvement (if No): Assess and address budgetary needs with senior management.
+Mandatory: True
+Tags: ["high revenue generate", "high IT infrastructure investment", "nature of data handled"]
+Question 1.2
+Name: Does the cybersecurity budget accommodate current and anticipated threats?
+Good Point (if Yes): Proactive budgeting mitigates risk and enhances preparedness.
+Scope for Improvement (if No): Request additional funding for comprehensive threat management.
+Mandatory: True
+Tags: ["crucial sector of the company", "high digital footprint"]
+
+Section 2: Training and Development Resources
+Question 2.1
+Name: Are resources allocated for continuous security training and skills development?
+Good Point (if Yes): Training ensures employees stay updated on emerging threats.
+Scope for Improvement (if No): Prioritize training resources to maintain skills in current threat landscapes.
+Mandatory: True
+Tags: ["large number of employees", "crucial sector of the company"]
+Question 2.2
+Name: Is there funding for cybersecurity tools and technologies aligned with industry standards?
+Good Point (if Yes): Use of standardized tools enhances operational efficiency.
+Scope for Improvement (if No): Re-evaluate spending to include essential technologies.
+Mandatory: True
+Tags: ["high IT infrastructure investment", "high digital footprint"]
+
+Section 3: Personnel and Preventive Measures
+Question 3.1
+Name: Are dedicated personnel assigned to manage cybersecurity?
+Good Point (if Yes): Dedicated staff ensure accountability and focus on cybersecurity goals.
+Scope for Improvement (if No): Consider additional hires or resource reallocation for cybersecurity.
+Mandatory: True
+Tags: ["large number of employees", "nature of data handled"]
+Question 3.2
+Name: Are resources set aside for regular penetration testing and vulnerability assessments?
+Good Point (if Yes): Regular testing reduces vulnerabilities and enhances security posture.
+Scope for Improvement (if No): Allocate budget to these preventive measures.
+Mandatory: True
+Tags: ["crucial sector of the company", "high IT infrastructure investment"]
+
+Section 4: Incident Response and Innovation
+Question 4.1
+Name: Are funds available for incident response planning and recovery efforts?
+Good Point (if Yes): Financial readiness enables swift recovery from incidents.
+Scope for Improvement (if No): Ensure financial readiness for efficient incident response.
+Mandatory: True
+Tags: ["nature of data handled", "high digital footprint"]
+Question 4.2
+Name: Is there financial support for cybersecurity research and innovation within the organization?
+Good Point (if Yes): Research fosters proactive security measures and innovation.
+Scope for Improvement (if No): Encourage investment in research for proactive security.
+Mandatory: True
+Tags: ["crucial sector of the company", "high revenue generate"]
+
+Section 5: Monitoring and Compliance
+Question 5.1
+Name: Are resources for monitoring and compliance management adequately funded?
+Good Point (if Yes): Proper funding ensures adherence to regulations and active monitoring.
+Scope for Improvement (if No): Address gaps in monitoring and compliance needs.
+Mandatory: True
+Tags: ["crucial sector of the company", "high IT infrastructure investment"]
+Question 5.2
+Name: Has resource allocation for cybersecurity been reviewed in the past year?
+Good Point (if Yes): Regular reviews align resource allocation with evolving needs.
+Scope for Improvement (if No): Initiate a review to adjust for evolving cybersecurity needs.
+Mandatory: True
+Tags: ["high revenue generate", "high digital footprint"]
+
+5.7.3 Regular Reviews and Commitment
+Section 1: Policy and Strategy Reviews
+Question 1.1
+Name: Is there a regular schedule for reviewing cybersecurity policies and procedures?
+Good Point (if Yes): Regular reviews ensure policies remain relevant and effective.
+Scope for Improvement (if No): Implement an annual review cycle at minimum.
+Mandatory: True
+Tags: ["crucial sector of the company", "nature of data handled"]
+Question 1.2
+Name: Are updates to cybersecurity strategies reviewed and approved by senior management?
+Good Point (if Yes): Management involvement strengthens strategic alignment.
+Scope for Improvement (if No): Engage management in strategy update discussions.
+Mandatory: True
+Tags: ["high revenue generate", "high digital footprint"]
+Question 1.3
+Name: Does senior management assess the effectiveness of cybersecurity investments?
+Good Point (if Yes): Periodic assessment optimizes investment allocation.
+Scope for Improvement (if No): Include this in regular performance evaluations.
+Mandatory: True
+Tags: ["high IT infrastructure investment", "large number of employees"]
+
+Section 2: Incident and Metrics Review
+Question 2.1
+Name: Are security incidents and their responses reviewed periodically by executives?
+Good Point (if Yes): Periodic reviews improve incident response strategies.
+Scope for Improvement (if No): Establish regular post-incident analysis sessions.
+Mandatory: True
+Tags: ["nature of data handled", "crucial sector of the company"]
+Question 2.2
+Name: Does the board receive updates on the organization’s cybersecurity metrics and KPIs?
+Good Point (if Yes): Metrics reporting ensures transparency and accountability.
+Scope for Improvement (if No): Establish a reporting mechanism for these updates.
+Mandatory: True
+Tags: ["high digital footprint", "high revenue generate"]
+Question 2.3
+Name: Are lessons from previous incidents applied to improve security practices?
+Good Point (if Yes): Learning from incidents enhances resilience.
+Scope for Improvement (if No): Implement a learning framework for incident response.
+Mandatory: True
+Tags: ["crucial sector of the company", "high IT infrastructure investment"]
+
+Section 3: Risk and Goal Alignment
+Question 3.1
+Name: Does management conduct quarterly reviews of risk management processes?
+Good Point (if Yes): Quarterly reviews keep risk strategies updated.
+Scope for Improvement (if No): Establish a quarterly review to stay aligned with risk.
+Mandatory: True
+Tags: ["nature of data handled", "high digital footprint"]
+Question 3.2
+Name: Are cybersecurity goals re-assessed based on evolving threats?
+Good Point (if Yes): Dynamic goals address current and emerging risks.
+Scope for Improvement (if No): Incorporate regular threat assessments into planning.
+Mandatory: True
+Tags: ["crucial sector of the company", "high revenue generate"]
+
+Section 4: Performance and Commitment
+Question 4.1
+Name: Is there a process for evaluating the performance of the cybersecurity team?
+Good Point (if Yes): Performance metrics encourage accountability and improvement.
+Scope for Improvement (if No): Introduce metrics to assess team and individual contributions.
+Mandatory: True
+Tags: ["large number of employees", "high IT infrastructure investment"]
+Question 4.2
+Name: Does senior management reaffirm commitment to cybersecurity regularly?
+Good Point (if Yes): Visible commitment reinforces organizational focus on security.
+Scope for Improvement (if No): Encourage ongoing statements of commitment from leadership.
+Mandatory: True
+Tags: ["high digital footprint", "crucial sector of the company"]

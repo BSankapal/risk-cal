@@ -9,6 +9,9 @@ function ScorePage() {
   // Handle loading state
   if (!jsonData || !responses) return <p className="loading">Loading...</p>;
 
+  console.log("jd", jsonData);
+  console.log("re", responses);
+
   const goodPoints = [];
   const improvementPoints = [];
 
@@ -37,11 +40,13 @@ function ScorePage() {
     });
   });
 
+  const totalQuestions = goodPoints.length + improvementPoints.length;
+
   return (
     <div className="score-page">
       <div className="score-summary">
         <h2>Evaluation</h2>
-        <p>Total Score: {goodPoints.length}</p>
+        <p>Score: <strong>{goodPoints.length} / {totalQuestions}</strong></p>
       </div>
 
       <div className="panel">

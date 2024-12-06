@@ -66,6 +66,25 @@
   .auth-page .toggle-button:hover {
     background-color: #f4f4f9;
   }
+
+  .error-box {
+    position: fixed;
+    top: 10px;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: #ffcccc;
+    color: #b30000;
+    padding: 10px 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    font-weight: bold;
+    text-align: center;
+    z-index: 1000;
+  }
+  
+  .error-box p {
+    margin: 0;
+  }
   
   @media (max-width: 768px) {
     .auth-page {
